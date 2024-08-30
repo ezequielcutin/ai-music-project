@@ -1,0 +1,18 @@
+# Virtual environment
+ai-music-env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Other common files to ignore
+.DS_Store
+*.log
+*.out
+*.err
+*.pid
+*.pid.lock
+*.pid.lock.lock
+*.pid.lock.lock.lock
+*.pid.lock.lock.lock.lock
+*.pid.lock.lock.lock.lock.lock
