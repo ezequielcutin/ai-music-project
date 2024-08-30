@@ -16,3 +16,9 @@ __pycache__/
 *.pid.lock.lock.lock
 *.pid.lock.lock.lock.lock
 *.pid.lock.lock.lock.lock.lock
+
+# Ignore weight files in root
+/*.keras
+
+# But allow them in the model improvements folder
+!/model improvements/*.keras
