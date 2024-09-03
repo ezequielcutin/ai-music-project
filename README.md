@@ -125,6 +125,7 @@ To train on different instruments, modify the filepath in `get_notes()` function
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+Can find MIDI mappings at [https://www.cprato.com/en/midi/all/release-date](https://www.cprato.com/en/midi/all/release-date)
 
 ## License
 
